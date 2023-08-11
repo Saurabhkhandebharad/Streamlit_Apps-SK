@@ -1,3 +1,4 @@
 streamlit==1.25.
-opencv-contrib-python==4.8.0.76
+opencv-python
+
 easyocr==1.6.2
