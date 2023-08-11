@@ -15,9 +15,9 @@ def main():
 
     # Load the images to be displayed and chosen from
     image_paths = {
-        "Image 1": r"1.jpg",  # Replace with the actual image path
-        "Image 2": r"2.jpg",
-           "Image 3": r"3.jpg"   # Replace with the actual image path
+        "Image 1": r"DemoImages/1.jpg",  # Replace with the actual image path
+        "Image 2": r"DemoImages/2.jpg",
+           "Image 3": r"DemoImages/3.jpg"   # Replace with the actual image path
     }
 
     st.write("Select an image:")
