@@ -1,3 +1,2 @@
-easyocr
-opencv-python-headless
+
 streamlit
