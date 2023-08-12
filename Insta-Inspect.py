@@ -22,7 +22,7 @@ def main():
 
     st.write("Select an image:")
     # Display the original images and let the user select one
-    selected_image = st.radio("", list(image_paths.keys()))
+    selected_image = st.radio(" ", list(image_paths.keys()))
 
     # Load the selected image
     image_path = image_paths[selected_image]
